@@ -1,6 +1,14 @@
-# TraceMyPods (opentelemetry.io)
+> # `Repo is in-progress`
+
+
+
+---
+# TraceMyPods (opentelemetry.io) 
 
 **TraceMyPods** is a Kubernetes setup for OpenTelemetry, designed to help you collect, visualize, and analyze traces from your Kubernetes workloads. This project provides a simple deployment of OpenTelemetry to monitor your applications and services, allowing you to explore observability best practices and improve your DevOps skills.
+
+
+![alt text](.github/1.png)
 
 ## Project Overview
 
@@ -26,6 +34,8 @@ This repository aims to guide you through the process of setting up OpenTelemetr
 - Prometheus and Grafana for visualizing metrics and traces
 
 ## Installation
+
+![alt text](.github/2.png)
 
 ### 1. Clone the Repository
 ```bash
